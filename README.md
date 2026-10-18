@@ -1,5 +1,3 @@
-# OpenCV-Basics
-Beginner-friendly OpenCV programs to get started with computer vision and recognition
 
 # OpenCV Basics
 
